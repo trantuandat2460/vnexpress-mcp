@@ -15,7 +15,7 @@ Mỗi lần gọi đều tải lại trực tiếp, không cache, nên luôn có
 Cần Python ≥ 3.10. Chọn một cách:
 
 ```bash
-# Cách 0: cài thẳng từ GitHub (repo private: máy đó cần đăng nhập GitHub, vd `gh auth login`)
+# Cách 0: cài thẳng từ GitHub
 uv tool install git+https://github.com/trantuandat2460/vnexpress-mcp
 # hoặc tải file .whl ở mục Releases của repo rồi cài theo cách 1
 ```
